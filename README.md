@@ -7,7 +7,7 @@ The work illustrates the process flow involved in removing sulfur compounds from
 - To demonstrate the major unit operations involved in sulfur removal.
 - To improve understanding of industrial gas treatment and purification process.
 ## Software Used 
-- Microsft Visio 
+- Microsoft Visio 
 ## Project Content 
 - Process Flow Diagram 
 - Equipment Layout and Connections
